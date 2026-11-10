@@ -1,0 +1,8 @@
+target/
+*.log
+.idea/
+.vscode/
+
+# Temporary files created while documents are open
+.~lock.*#
+~$*
